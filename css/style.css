@@ -930,6 +930,12 @@ button:focus {
     color: seagreen;
 }
 
+.row span {
+    position: absolute;
+    color: red;
+    font-size: 14px;
+}
+
 .well-block {}
 
 .well-block .well-title h2 {
